@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.656,C:\Users\Марк\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Марк\Desktop\Курсовая работа\Программирование\KWork\CalcTrafficIntens.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.416,=C:\Users\Марк\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.656,C:\Users\Марк\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Марк\Desktop\Курсовая работа\Программирование\KWork\CalcTrafficIntens.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.656,C:\Users\Марк\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Марк\Desktop\Курсовая работа\Программирование\KWork\CalcTrafficIntens.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,C:\Users\Марк\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Марк\Desktop\Курсовая работа\Программирование\KWork\KursWork.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.391,C:\Users\Марк\Desktop\Курсовая работа\Программирование\KWork\Project1PCH1.h=C:\Users\Марк\Desktop\Курсовая работа\Программирование\KWork\KursWorkPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,C:\Users\Марк\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Марк\Desktop\Курсовая работа\Программирование\KWork\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.305,=C:\Users\Марк\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="KursWork.cpp"/>
+    <File Path="KursWorkPCH1.h"/>
+    <File Path="CalcTrafficIntens.cpp"/>
+    <File Path="CalcTrafficIntens.cpp"/>
+    <File Path="CalcTrafficIntens.dfm"/>
+    <File Path="CalcTrafficIntens.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
